@@ -7,7 +7,8 @@ To develop a Django application to store and retrieve data from a bank loan data
 
 # ENTITY RELATIONSHIP DIAGRAM
 
-![alt text](digram.png)
+![Screenshot 2025-04-08 102616](https://github.com/user-attachments/assets/8eb61d8c-6d76-4c89-b846-190343f8a2f2)
+
 ## DESIGN STEPS
 ## STEP 1:
 Clone the problem from GitHub
